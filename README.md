@@ -1,0 +1,1 @@
+This is the source code I uploaded for a GNSS intelligent acquisition framework. The code is based on an open-source GNSS software receiver. Due to copyright restrictions, I am currently only updating the code related to the acquisition phase for reproduction in the paper. For the complete code, please contact me.
